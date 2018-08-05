@@ -1,0 +1,64 @@
+[
+	
+	{
+	    "name": "Taste",
+	    "category": "Food & Restaurant",
+	    "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-restaurant-template/",
+	    "previewLink": "https://technext.github.io/taste/"
+	},
+	{
+	    "name": "Neat",
+	    "category": "Personal",
+	    "downloadLink": "https://themewagon.com/themes/download-free-responsive-html5-portfolio-template/",
+	    "previewLink": "https://technext.github.io/neat/"
+	},
+	{
+	    "name": "Consult",
+	    "category": "Business & Corporate",
+	    "downloadLink": "https://themewagon.com/themes/multipurpose-free-bootstrap-4-template-download/",
+	    "previewLink": "https://technext.github.io/consult/index.html"
+	},
+	{
+	    "name": "Law",
+	    "category": "Business & Corporate",
+	    "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-law-firm-template-download/",
+	    "previewLink": "https://technext.github.io/law/"
+	},
+	{
+	    "name": "Exclusive",
+	    "category": "Landing Pages",
+	    "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-one-page-template/",
+	    "previewLink": "https://technext.github.io/exclusivity/"
+	},
+	{
+	    "name": "Classimax",
+	    "category": "Business & Corporate",
+	    "downloadLink": "https://themewagon.com/themes/bootstrap-4-classified-website-template/",
+	    "previewLink": "https://technext.github.io/classimax/"
+	},
+	{
+	    "name": "Elisa",
+	    "category": "Multipurpose",
+	    "downloadLink": "https://themewagon.com/themes/free-multipurpose-landing-page-template-elisa/",
+	    "previewLink": "https://technext.github.io/elisa-template-demo/"
+	},
+	{
+	    "name": "NGX-Admin",
+	    "category": "Admin & Dashboard",
+	    "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-angular-admin-dashboard-angular/",
+	    "previewLink": "http://akveo.com/ngx-admin/#/pages/dashboard"
+	},
+	{
+	    "name": "Admin bsb ",
+	    "category": "Admin & Dashboard",
+	    "downloadLink": "https://themewagon.com/themes/free-bootstrap-admin-dashboard/",
+	    "previewLink": "https://technext.github.io/AdminBSBMaterialDesign/"
+	},
+	{
+	    "name": "Bell",
+	    "category": "Business & Corporate",
+	    "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-multipurpose-template-bell/",
+	    "previewLink": "https://technext.github.io/bell/"
+	}
+
+]

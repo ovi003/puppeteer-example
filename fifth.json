@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Essence",
+        "category": "E-commerce",
+        "downloadLink": "https://themewagon.com/themes/free-ecommerce-bootstrap-template/",
+        "previewLink": "https://technext.github.io/essence/"
+    },
+    {
+        "name": "Fancy",
+        "category": "Business & Corporate",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-corporate-template/",
+        "previewLink": "https://technext.github.io/fancy/"
+    },
+    {
+        "name": "Ezuca",
+        "category": "Miscellaneous",
+        "downloadLink": "https://themewagon.com/themes/free-html5-education-template/",
+        "previewLink": "https://technext.github.io/ezuca/"
+    },
+    {
+        "name": "Adventure",
+        "category": "Travel & Booking",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-travel-website-template-download/",
+        "previewLink": "https://technext.github.io/adventure/"
+    },
+    {
+        "name": "Ruby",
+        "category": "Business & Corporate",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-business-template-multi-page/",
+        "previewLink": "https://technext.github.io/ruby/"
+    },
+    {
+        "name": "Burnout",
+        "category": "Medical & Health Care",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-gym-website-template-download/",
+        "previewLink": "https://technext.github.io/burnout/"
+    },
+    {
+        "name": "Startup",
+        "category": "Business & Corporate",
+        "downloadLink": "https://themewagon.com/themes/bootstrap-html5-multipurpose-business-template/",
+        "previewLink": "https://technext.github.io/startup/"
+    },
+    {
+        "name": "Pato",
+        "category": "Food & Restaurant",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-restaurant-website-html5-template/",
+        "previewLink": "https://technext.github.io/pato/"
+    },
+    {
+        "name": "Shop",
+        "category": "E-commerce",
+        "downloadLink": "https://themewagon.com/themes/download-free-responsive-ecommerce-template-shop-sales-pages/",
+        "previewLink": "https://technext.github.io/shop/"
+    },
+    {
+        "name": "Evie",
+        "category": "Landing Pages",
+        "downloadLink": "https://themewagon.com/themes/free-landing-page-template-evie/",
+        "previewLink": "https://technext.github.io/evie1/"
+    }
+
+]

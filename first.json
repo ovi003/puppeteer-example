@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Food Funday",
+        "category": "Food & Restaurant",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-restaurant-template/",
+        "previewLink": "https://technext.github.io/food-funday/"
+    },
+    {
+        "name": "Cavier",
+        "category": "Food & Restaurant",
+        "downloadLink": "https://themewagon.com/themes/free-html5-food-restaurant-website-template/",
+        "previewLink": "https://technext.github.io/caviar/"
+    },
+    {
+        "name": "X-Man",
+        "category": "Personal",
+        "downloadLink": "https://themewagon.com/themes/free-personal-website-template-portfolio-resume/",
+        "previewLink": "https://technext.github.io/xman/"
+    },
+    {
+        "name": "Electro",
+        "category": "E-commerce",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-ecommerce-template/",
+        "previewLink": "https://technext.github.io/electro/"
+    },
+    {
+        "name": "Avilon",
+        "category": "Landing Pages",
+        "downloadLink": "https://themewagon.com/themes/bootstrap-4-landing-page-template-free-download/",
+        "previewLink": "https://technext.github.io/avilon/"
+    },
+    {
+        "name": "B-Hero",
+        "category": "Business & Corporate",
+        "downloadLink": "https://themewagon.com/themes/free-bootstrap-4-business-website-template/",
+        "previewLink": "https://technext.github.io/b-hero/"
+    },
+    {
+        "name": "BizPage",
+        "category": "Business & Corporate",
+        "downloadLink": "https://themewagon.com/themes/bootstrap-4-business-template/",
+        "previewLink": "https://technext.github.io/bizpage/"
+    },
+    {
+        "name": "Businessbox",
+        "category": "Business & Corporate",
+        "downloadLink": "https://themewagon.com/themes/multi-page-bootstrap-4-business-template/",
+        "previewLink": "https://technext.github.io/businessbox/"
+    },
+    {
+        "name": "CareMed",
+        "category": "Medical & Health Care",
+        "downloadLink": "https://themewagon.com/themes/free-html5-medical-template/",
+        "previewLink": "https://technext.github.io/caremed/"
+    },
+    {
+        "name": "Coming2Live",
+        "category": "Coming Soon",
+        "downloadLink": "https://themewagon.com/themes/free-coming-soon-html5-template-under-construction-web-pages/",
+        "previewLink": "https://technext.github.io/coming2live/"
+    }
+]
